@@ -1,4 +1,4 @@
-# clock_with_custom_painter
+# clock_with_custom_paint
 
 A new Flutter project.
 
